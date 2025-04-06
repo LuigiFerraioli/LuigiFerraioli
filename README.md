@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm Luigi Ferraioli, currently pursuing a Master's degree in Mechatronics, following two Bachelor's degrees in Mechanical and Mechatronical Engineering. With a passion for robotics and automation, I specialize in ROS2, C++, and Python.
+I'm Luigi Ferraioli, a Mechatronics Engineer with a Master's degree in Mechatronics, following two Bachelor's degrees in Mechanical and Mechatronics Engineering. With a strong passion for robotics and automation, I specialize in ROS2, C++, and Python.
 
-- 🔭 I’m currently working on the [Defacto research project](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/defacto.html)
-- 🔬 My previous project involved implementing an autonomous drone in the research project [5URVIVE](https://5urvive.de/).
+- 🔬 My project experience includes:
+  - Developing and implementing an autonomous drone as part of the [5URVIVE research project](https://5urvive.de/).
+  - Contributing to the ongoing [Defacto research project](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/defacto.html), focusing on digitalization and automation in transport systems.
 - 🎓 Additionally, I have experience as a tutor for Python and ROS2
 - 🌱 I’m currently learning to improve my skills in C++ and delve deeper into embedded systems.
 - 💬 I enjoy working with ROS2 and Gazebo, building digital twins that facilitate testing and implementing new technologies.
@@ -23,7 +24,6 @@ Feel free to reach out to me if you have any questions or want to collaborate on
   <img src="https://github.com/Zerquer/Zerquer/assets/73582878/01d760d5-a9ad-4ef1-b14f-c99fc580e0eb" alt="ROS2" height="48"/>
 </p>
 
-
 ### Tools
 <p>
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" height="48"/>
@@ -34,16 +34,3 @@ Feel free to reach out to me if you have any questions or want to collaborate on
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" height="48"/>
 </p>
-
-<!---
-### Python Libraries
-<p>
-  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" height="48"/>
-  <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" height="48"/>
-  <img src="https://www.statsmodels.org/devel/_images/statsmodels-logo-v2.svg" alt="Statsmodels" height="48"/>  
-  <img src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png" alt="SciPy" height="48"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="48"/>
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657098680857/FoZEEuklb.png?auto=compress,format&format=webp" alt="PyTest" height="48"/>
-</p>
---->
